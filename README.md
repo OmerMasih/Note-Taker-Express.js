@@ -28,9 +28,17 @@ AS a user I want to be able to write and save notes, so that I can organize my t
 
 The following images show the web application's appearance and functionality:
 
-![localhost_3001_](https://user-images.githubusercontent.com/111917255/224788814-22d3516e-9599-42d7-91ca-d3523829f177.png)
 
-![localhost_3001_notes](https://user-images.githubusercontent.com/111917255/224788846-2620f6f5-038f-4c34-872d-fb36fd514929.png)
+<img width="1278" alt="Screen Shot 2023-03-13 at 11 24 54 AM" src="https://user-images.githubusercontent.com/111917255/224796249-0b23380c-29ce-4ee2-a81e-21dde4781a1c.png">
+
+
+
+<img width="1073" alt="Screen Shot 2023-03-13 at 11 28 57 AM" src="https://user-images.githubusercontent.com/111917255/224796297-50524c6c-957b-42eb-b0f8-1fccd4c6f321.png">
+
+
+
+
+
 
 ## License
 

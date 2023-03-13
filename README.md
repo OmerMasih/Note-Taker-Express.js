@@ -28,6 +28,10 @@ AS a user I want to be able to write and save notes, so that I can organize my t
 
 The following images show the web application's appearance and functionality:
 
+![localhost_3001_](https://user-images.githubusercontent.com/111917255/224788814-22d3516e-9599-42d7-91ca-d3523829f177.png)
+
+![localhost_3001_notes](https://user-images.githubusercontent.com/111917255/224788846-2620f6f5-038f-4c34-872d-fb36fd514929.png)
+
 ## License
 
 This project is license under MIT
@@ -48,4 +52,4 @@ If you have any questions about this projects, please contact me directly at bel
 
   <br/>
 
-### This generator is created by Masihullah Omer.👏🏻
+### This appication is created by Masihullah Omer.🧑🏻‍💻
